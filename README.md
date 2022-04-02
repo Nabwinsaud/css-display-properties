@@ -1,5 +1,6 @@
 # css display properties 
 
+# [finaloutput](https://css-display-properties.netlify.app/)
 As we know that display properties is essential part of css layout where we want to render our elements
 layout in different ways 
 
